@@ -8,5 +8,5 @@
 <p> The link below is a PDF file regarding the interview questions we asked towards our interviewees. </p>[Interview Questions](P1/Interview Questions.pdf)
 
 ### Secondary Research
-<p> We made much needed research in the field of virtual reality. We found out about equipments needed for immersion and how VR can our learning and senses. Our research can be found in the link below.</p>[Secondary Research](P1/Secondary Research.pdf)
+<p> We made much needed research in the field of virtual reality. We found out about equipments needed for immersion enhancement and how VR can impact our learning and senses. Our research can be found in the link below.</p>[Secondary Research](P1/Secondary Research.pdf)
 
