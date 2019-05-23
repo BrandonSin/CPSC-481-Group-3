@@ -4,4 +4,4 @@
 
 [Link](Interview Questions.pdf)!
 <p>
-  <left> [Picture With Interviewers and Interviewees](ProjectPic.jpg) </left>
+  <left> [Image](ProjectPic.jpg) </left>
