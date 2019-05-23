@@ -1,7 +1,6 @@
 ## Iteration P1
 
 
-
-[Link](Interview Questions.pdf)
+[Interview Questions](Interview Questions.pdf)
 <p>
   <left> ![Image](ProjectPic.jpg) </left>
