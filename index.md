@@ -2,6 +2,6 @@
 
 
 
-[Link](Interview Questions.pdf)!
+[Link](Interview Questions.pdf)
 <p>
-  <left> [Image](ProjectPic.jpg) </left>
+  <left> ![Image](ProjectPic.jpg) </left>
