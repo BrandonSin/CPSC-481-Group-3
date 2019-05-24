@@ -1,8 +1,8 @@
 # Iteration P1
-<p>In this iteration, we focussed on Investigating and developing ideas in approaching our VR project. We made necessary research and interviews in order to gain a better understanding of our goals and aim. </P>[P1 Document](P1/P1.pdf)
+<p>In this iteration, we focussed on Investigating and developing ideas in approaching our VR project. We made necessary research and interviews in order to gain a better understanding of our goals and aim. </P>
 
 ### P1
-<p> In the below PDF is our P1 iteration document. In this document, we will introduce our project, roles of our stakeholders, interview responses and our findings in the research. </P>
+<p> In the below PDF is our P1 iteration document. In this document, we will introduce our project, roles of our stakeholders, interview responses and our findings in the research. </P>[P1 Documents](P1/P1.pdf)
 
 ### Interview Questions
 <p> The link below is a PDF file regarding the interview questions we asked towards our interviewees. </p>[Interview Questions](P1/Interview Questions.pdf)
