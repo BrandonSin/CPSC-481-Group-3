@@ -18,9 +18,9 @@
 ### P2-Presentation
 <p> In the below PDF is our P2 presentation. In this document we talk about our idea, reasearch methods, what the user is able to do with our application and finally corrections on our protoype as suggested by the TA and thier solutions. </P>[P2-Presentation](P2/P2 Presentation.pdf)
 
-### Low fidelity prototype (AJIT EDIT THESE AND THE ONE BELOW)
-<p> The link below is a PDF file regarding the interview questions we asked towards our interviewees. </p>[Interview Questions](P1/Interview Questions.pdf)
+### Low fidelity prototype -PDF
+<p> The link below is a PDF file for the wireframe of the low fidelity prototpe. </p>[Low fidelity prototpe.pdf](P2/LowFedility.pdf)
 
-### Secondary Research
-<p> We made much needed research in the field of virtual reality. We found out about equipments needed for immersion enhancement and how VR can impact our learning and senses. Our research can be found in the link below.</p>[Secondary Research](P1/Secondary Research.pdf)
+### Low fidelity prototype -Balsamiq
+<p> The link below is a file for the wireframe of the low fidelity prototpe in Balsamiq. </p>[Low fidelity prototype-Balsamiq](P2/LowFedility.bmpr)
 
