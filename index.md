@@ -16,9 +16,9 @@
 <p>In this iteration, we focussed on creating a low fidelity prototpe of our application using Balsamiq. </P>
 
 ### P2-Presentation
-<p> In the below PDF is our P2 presentation. In this document we talk about our idea, reasearch methods, what the user is able to do with our application and finally corrections on our protoype as suggested by the TA and thier colutions. </P>[P2-Presentation](P2/P2 Presentation.pdf)
+<p> In the below PDF is our P2 presentation. In this document we talk about our idea, reasearch methods, what the user is able to do with our application and finally corrections on our protoype as suggested by the TA and thier solutions. </P>[P2-Presentation](P2/P2 Presentation.pdf)
 
-### Low fidelity prototypr (AJIT EDIT THESE AND THE ONE BELOW)
+### Low fidelity prototype (AJIT EDIT THESE AND THE ONE BELOW)
 <p> The link below is a PDF file regarding the interview questions we asked towards our interviewees. </p>[Interview Questions](P1/Interview Questions.pdf)
 
 ### Secondary Research
