@@ -29,8 +29,10 @@
 <p>In this iteration, we focussed on creating a high fidelity prototype using Adobe XD. We used the feedbacks from our T.A and Professor and the outline from our Balsamiq prototype to help flushout the designs of the hi-fi prototype. Particularly this iteration, we mainly focussed on the task of purchasing a VR video from our collection. The process of this showcase would be going into "My Events" which should be empty as there are no purchases. Afterwards, we would buy a VR video from the store and select preview/play. Finally, we would go back to "MY Events" and the video should be there. Other tasks are included in this iteration but may not be completely functional or optimized.</p>
 
 ### High Fidelity Prototype - Adobe XD
-<p>
-<a href="P3/HiFiPrototype [Updated].xd" download>Click to Download</a>
+<p>The download link below is the High Fidelity Prototype made in Adobe XD. Some functions still require optimizations and implemenations. Specifically, the calendar still needs a bit more work before fully functioning. 
+<a href="P3/HiFiPrototype [Updated].xd" download>Hi-Fi Prototype Adobe XD File</a>
 </p>
 ### High Fidelity Video Walkthrough of Specified Task
+<p>The Video below here takes you for a walkthrough of our purchasing task in our iteration P3.
+</p>
 <video src="P3/purchaseShowcase.mp4" width="320" height="200" controls preload></video>
