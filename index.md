@@ -30,7 +30,9 @@
 
 ### High Fidelity Prototype - Adobe XD
 <p>The download link below is the High Fidelity Prototype made in Adobe XD. Some functions still require optimizations and implemenations. Specifically, the calendar still needs a bit more work before fully functioning. </p>
+<p>
 <a href="P3/HiFiPrototype [Updated].xd" download>Hi-Fi Prototype Adobe XD File</a>
+</p>
 ### High Fidelity Video Walkthrough of Specified Task
 <p>The Video below here takes you for a walkthrough of our purchasing task in our iteration P3.
 </p>
