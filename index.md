@@ -39,5 +39,5 @@
 <video src="P3/purchaseShowcase.mp4" width="320" height="200" controls preload></video>
 <p>
 
-If you encounter any difficulties accessing these files please contact <brandon.sin@ucalgary.ca>
+If you encounter any difficulties accessing these files please contact [mailto](mailto:brandon.sin@ucalgary.ca)
 </p>
