@@ -31,3 +31,4 @@
 ### High Fidelity Prototype - Adobe XD
 <p></p>
 ### High Fidelity Video Walkthrough of Specified Task
+<video src="P3/purchaseShowcase.mp4" width="320" height="200" controls preload></video>
