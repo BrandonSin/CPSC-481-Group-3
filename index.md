@@ -1,4 +1,4 @@
-## Team: Sehajveer Bring, Soha Hemmati, Ajit Pawa, Brandon Sin
+### Team: Sehajveer Bring, Soha Hemmati, Ajit Pawa, Brandon Sin
 
 # Iteration P1
 <p>In this iteration, we focussed on Investigating and developing ideas in approaching our VR project. We made necessary research and interviews in order to gain a better understanding of our goals and aim. </P>
@@ -41,5 +41,5 @@
 <video src="P3/purchaseShowcase.mp4" width="320" height="200" controls preload></video>
 <p>
 
-If you encounter any difficulties accessing these files please contact [mailto](Brandon Sin:brandon.sin@ucalgary.ca)
+If you encounter any difficulties accessing these files please contact [mailto](mailto:brandon.sin@ucalgary.ca)
 </p>
