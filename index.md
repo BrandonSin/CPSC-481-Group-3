@@ -40,5 +40,38 @@
 </p>
 <video src="P3/purchaseShowcase.mp4" width="320" height="200" controls preload></video>
 <p>
+  
+# Iteration P4
+### Description of Iteration P4
+<p>In this final iteration, we wrap up our high fidelity prototype and gather heuristics from other groups and potential users. We learn about the flaws in our designs and suggestions to improve our Hi-Fi. We conclude our project with a powerpoint presentation, report and finalize with a few thoughts about the future of our product.</p>
+
+### Presentation Slides
+<p>The link below is the powerpoint presentation for our product.</p>
+[Powerpoint Presentation](P4/Final Presentation.pptx)
+
+### Final High Fidelity File
+<p>A complete idea of how our final product should look like and function</p>
+
+[Final Hi-Fi File](P4/HIFI-WEAREVR-FINAL.xd)
+
+### Low-Fidelity Balsamiq
+<p>A repost of our low-fidelity Balsamiq file</p>
+[Low fidelity prototpe.pdf](P2/LowFedility.pdf)
+
+### Final Report
+<p>A final report regarding our experience and difficulties throughout the project. Detailed discussion is included in the report.</p>
+
+### Heuristic Report for Team 1024
+<p>Our evaluation on team 1024's Shopping List Application using heuristic evaluation points.</p>
+[Heuristic Report for team 1024](P4/Heuristics for Group 1024.docx)
+
+### Team 31's Evaluation on us
+<p>This is team 31's report on our product regarding about designs and usability.</p>
+[Heuristic Report for us](P4/Our Evaluation.docx)
+
+### User Testing
+<p>This report regards our users feedback on our high fidelity project.</p>
+
+
 
 If you encounter any difficulties accessing these files please contact <brandon.sin@ucalgary.ca>
