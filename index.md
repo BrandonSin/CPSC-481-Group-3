@@ -39,7 +39,7 @@
 <p>The Video below here takes you for a walkthrough of our purchasing task in our iteration P3.
 </p>
 <video src="P3/purchaseShowcase.mp4" width="320" height="200" controls preload></video>
-<p>
+
   
 # Iteration P4
 ### Description of Iteration P4
