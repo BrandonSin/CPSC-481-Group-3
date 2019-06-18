@@ -39,7 +39,7 @@
 <p>The Video below here takes you for a walkthrough of our purchasing task in our iteration P3.
 </p>
 <video src="P3/purchaseShowcase.mp4" width="320" height="200" controls preload></video>
-<br></br>
+<br>
 
   
 # Iteration P4
@@ -74,7 +74,7 @@
 ### User Testing
 <p>This report regards our users feedback on our high fidelity project.</p>
 [User Testing](P4/User testing.docx)
-<br></br>
+<br>
 
 
 If you encounter any difficulties accessing these files please contact <brandon.sin@ucalgary.ca>
