@@ -73,8 +73,8 @@
 
 ### User Testing
 <p>This report regards our users feedback on our high fidelity project.</p>
-[User Testing](P4/User testing.docx)
-<br>
+[User Testing](P4/User testing .docx)
+
 
 
 If you encounter any difficulties accessing these files please contact <brandon.sin@ucalgary.ca>
