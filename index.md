@@ -39,6 +39,7 @@
 <p>The Video below here takes you for a walkthrough of our purchasing task in our iteration P3.
 </p>
 <video src="P3/purchaseShowcase.mp4" width="320" height="200" controls preload></video>
+<br></br>
 
   
 # Iteration P4
@@ -60,6 +61,7 @@
 
 ### Final Report
 <p>A final report regarding our experience and difficulties throughout the project. Detailed discussion is included in the report.</p>
+[Final Report](P2/Final Report.pdf)
 
 ### Heuristic Report for Team 1024
 <p>Our evaluation on team 1024's Shopping List Application using heuristic evaluation points.</p>
@@ -71,7 +73,8 @@
 
 ### User Testing
 <p>This report regards our users feedback on our high fidelity project.</p>
-
+[User Testing](P4/User testing.docx)
+<br></br>
 
 
 If you encounter any difficulties accessing these files please contact <brandon.sin@ucalgary.ca>
